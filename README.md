@@ -1,15 +1,268 @@
-# 💫 About Me:
-"¡Saludos! 👋 Soy un apasionado desarrollador con un enfoque integral en la creación de soluciones tecnológicas. Mi experiencia abarca diversos lenguajes y tecnologías, destacando en Python 🐍, HTML 🌐, CSS 🎨, JavaScript 🚀 y Flutter 📱. Me especializo en el desarrollo de aplicaciones robustas y atractivas, utilizando un enfoque versátil y creativo.<br><br>Mi fascinación por la tecnología va más allá de la codificación; tengo una sólida comprensión de la arquitectura de bases de datos 💾 y estoy comprometido con diseñar sistemas eficientes y escalables. La resolución de problemas es mi pasión, y disfruto enfrentando desafíos que me permitan aprender y crecer constantemente.<br><br>A lo largo de mi trayectoria, he contribuido a proyectos diversos, desde aplicaciones web hasta soluciones móviles utilizando Flutter. En cada línea de código, busco no solo cumplir con los requisitos, sino también superar las expectativas, proporcionando experiencias de usuario excepcionales.<br><br>Mi compromiso con la excelencia técnica se complementa con mi capacidad para colaborar efectivamente en equipos multidisciplinarios. Creo firmemente en la importancia de la comunicación clara y la colaboración para lograr resultados sobresalientes.<br><br>Sigo explorando nuevas tecnologías y metodologías, siempre buscando mantenerme al tanto de las últimas tendencias del desarrollo. Estoy entusiasmado con la oportunidad de contribuir a proyectos ambiciosos y desafiantes que impulsen la innovación y dejen una marca positiva en el mundo digital. ¡Vamos a construir el futuro juntos a través del código y la creatividad! 🚀🌟"
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,100:0d0d0d&height=120&section=header&text=TONI%20POST&fontSize=72&fontColor=ffffff&fontAlignY=55&desc=Full%20Stack%20%E2%80%94%20Mobile%20%E2%80%94%20Cloud%20%E2%80%94%20AI&descAlignY=80&descSize=16&animation=blinking&stroke=00e5ff&strokeWidth=2" width="100%"/>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ToniPost&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ToniPost&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ToniPost&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=2000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+products+people+actually+use.;7%2B+years+%E2%80%94+50%2B+projects+%E2%80%94+0+compromises.;Flutter+%2B+Python+%2B+React+%2B+Cloud.;From+idea+to+deploy%2C+end+to+end.)](https://git.io/typing-svg)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ToniPost&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img align="right" height="230" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98078b3c0e7904068c8e8e044/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
+
+### Hola, soy **Toni** 👋
+
+Desarrollador full stack con **+7 años** creando productos digitales que van desde la primera línea de código hasta producción.
+
+Me muevo igual de bien en el **backend** que en el **frontend**, en **mobile** que en **cloud**. No busco ser el experto de una sola herramienta — busco entregar resultados.
+
+Trabajo con startups y empresas en todo el mundo para construir:
+
+- 📱 **Apps móviles** con Flutter que se sienten nativas
+- 🌐 **Plataformas web** con React + Node.js / Django
+- 🤖 **Integraciones de IA** con OpenAI, TensorFlow y más
+- ☁️ **Infraestructura cloud** escalable en AWS, Azure y GCP
+
+> *"No solo escribo código — diseño soluciones, anticipo problemas y entrego experiencias."*
+
+<br clear="right"/>
+
+---
+
+## ⚡ Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Lenguajes**
+
+```
+Python      ████████████  Expert
+JavaScript  ████████████  Expert
+Dart        ████████████  Expert
+Kotlin      ████████░░░░  Advanced
+Java        ████████░░░░  Advanced
+C++         ██████░░░░░░  Mid
+PHP         ██████░░░░░░  Mid
+```
+
+</td>
+<td valign="top" width="33%">
+
+**Frontend & Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-0d0d0d?style=flat-square&logo=Flutter&logoColor=00e5ff)
+![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-0d0d0d?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-0d0d0d?style=flat-square&logo=angular&logoColor=DD0031)
+![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3&logoColor=1572B6)
+![.NET](https://img.shields.io/badge/.NET-0d0d0d?style=flat-square&logo=dotnet&logoColor=9B59B6)
+
+</td>
+<td valign="top" width="33%">
+
+**Backend & Bases de Datos**
+
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=node.js&logoColor=6DA55F)
+![Django](https://img.shields.io/badge/Django-0d0d0d?style=flat-square&logo=django&logoColor=00e5ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=flat-square&logo=mysql&logoColor=00e5ff)
+![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=flat-square&logo=redis&logoColor=DC382D)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0d0d0d?style=flat-square&logo=microsoftazure&logoColor=0072C6)
+![GCP](https://img.shields.io/badge/GCP-0d0d0d?style=flat-square&logo=google-cloud&logoColor=4285F4)
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=flat-square&logo=docker&logoColor=2496ED)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-0d0d0d?style=flat-square&logo=oracle&logoColor=F80000)
+
+</td>
+<td valign="top">
+
+**IA & Data**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-0d0d0d?style=flat-square&logo=openai&logoColor=ffffff)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0d0d?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d0d0d?style=flat-square&logo=opencv&logoColor=5C3EE8)
+![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=flat-square&logo=pandas&logoColor=150458)
+![Anaconda](https://img.shields.io/badge/Anaconda-0d0d0d?style=flat-square&logo=anaconda&logoColor=44A833)
+![Groq](https://img.shields.io/badge/Groq-0d0d0d?style=flat-square&logo=groq&logoColor=00e5ff)
+
+</td>
+<td valign="top">
+
+**Diseño & Herramientas**
+
+![Figma](https://img.shields.io/badge/Figma-0d0d0d?style=flat-square&logo=figma&logoColor=F24E1E)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-0d0d0d?style=flat-square&logo=adobe-xd&logoColor=FF61F6)
+![Blender](https://img.shields.io/badge/Blender-0d0d0d?style=flat-square&logo=blender&logoColor=F5792A)
+![Photoshop](https://img.shields.io/badge/Photoshop-0d0d0d?style=flat-square&logo=adobephotoshop&logoColor=31A8FF)
+![After Effects](https://img.shields.io/badge/After_Effects-0d0d0d?style=flat-square&logo=adobeaftereffects&logoColor=9999FF)
+![n8n](https://img.shields.io/badge/n8n-0d0d0d?style=flat-square&logo=n8n&logoColor=EA4B71)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Proyectos Destacados
+
+<div align="center">
+
+| Proyecto | Stack | Descripción |
+|---------|-------|-------------|
+| 🏠 **App Inmobiliaria** | `Flutter` `Firebase` `IA` | Búsqueda inteligente de propiedades con recomendaciones por IA |
+| 🛒 **E-Commerce Platform** | `React` `Node.js` `Stripe` | Plataforma completa de ventas con pagos y gestión de inventario |
+| 🤖 **Chatbot WhatsApp** | `Python` `OpenAI` `API` | Asistente conversacional integrado en WhatsApp para negocios |
+| 📊 **Analytics Dashboard** | `Django` `React` `AWS` | Panel de métricas en tiempo real con visualizaciones avanzadas |
+| 🎮 **AR Experience** | `Flutter` `ARKit` `ARCore` | Realidad aumentada multiplataforma para catálogos de producto |
+| 🎬 **Editor de Video IA** | `Python` `FFmpeg` `TensorFlow` | Edición automática de video con inteligencia artificial |
+| 🧠 **InnovaIA** | `Node.js` `Python` `React` `n8n` `GPT-4` `Groq` | Agencia de automatización con IA: chatbots expertos, dashboards en tiempo real y flujos inteligentes para negocios |
+| 🥗 **Innova Food Studio** | `Flutter` `IA` `Android` | App de escaneo de alimentos con detección de alertas sanitarias, alérgenos y análisis de ingredientes en tiempo real |
+| 📺 **Innova ViralPro** | `JavaScript` `YouTube API` `Groq` `LLaMA 3.3` | Suite de inteligencia para YouTubers: nichos, guiones IA, spy tool, A/B títulos, CPM estacional y calculadora de sponsors |
+
+</div>
+
+---
+
+## 🧠 InnovaIA — Ecosistema Propio
+
+> Fundador y desarrollador de **[InnovaIA](https://innovaia.org)** — plataforma de inteligencia artificial aplicada a negocios reales.
+
+<div align="center">
+
+| Métrica | Resultado |
+|--------|-----------|
+| ⚡ Reducción tareas manuales | −60% en el primer mes |
+| 📈 Aumento en conversiones | +35% con funnels IA |
+| 🕐 Atención automatizada | 24/7 sin intervención humana |
+| 🚀 Velocidad de análisis | ×3 vs equipos manuales |
+
+</div>
+
+InnovaIA diseña e implementa tres líneas de soluciones de IA:
+
+**01 — Asistentes & Chatbots Expertos**
+Bots entrenados con la documentación, productos y FAQs del cliente. Atención al cliente, soporte técnico, ventas y onboarding automatizados en WhatsApp, Web y Telegram.
+
+**02 — Paneles de Datos & Alertas**
+Dashboards únicos que consolidan métricas de todas las plataformas con alertas inteligentes. Detección de anomalías en ventas, errores, tickets e inventario en tiempo real.
+
+**03 — Automatización de Procesos**
+Flujos conectados con Stripe, WooCommerce, Google Sheets, n8n y APIs internas: facturación automática, emails personalizados, segmentación y scoring de clientes.
+
+### 📦 Productos lanzados bajo InnovaIA
+
+---
+
+### 🥗 Innova Food Studio — App Android
+
+[![Google Play](https://img.shields.io/badge/Google_Play-0d0d0d?style=for-the-badge&logo=google-play&logoColor=00e5ff)](https://play.google.com/store/apps/details?id=org.antoniopostiguiillo.innovafoodstudio)
+![Flutter](https://img.shields.io/badge/Flutter-0d0d0d?style=flat-square&logo=Flutter&logoColor=00e5ff)
+![Android](https://img.shields.io/badge/Android-0d0d0d?style=flat-square&logo=android&logoColor=3DDC84)
+
+**¿Para qué sirve?**
+Escaneás cualquier alimento con la cámara del móvil y la app te dice exactamente qué estás a punto de comer. Detecta alertas sanitarias oficiales activas, analiza ingredientes y aditivos, identifica alérgenos y genera un perfil de riesgo personalizado según tu historial.
+
+**Funciones principales:**
+- 📷 Escaneo rápido con cámara
+- 🚨 Detección de alertas sanitarias oficiales en tiempo real
+- 🧪 Análisis completo de ingredientes y aditivos
+- ⚠️ Identificación de alérgenos y componentes sensibles
+- 📋 Historial de productos escaneados
+- 👤 Revisión de riesgos según perfil personal
+
+> Ideal para personas con alergias, intolerancias, problemas de azúcar, colesterol elevado o quienes simplemente quieren saber qué están comiendo.
+
+---
+
+### 📺 Innova ViralPro — YouTube Intelligence Suite
+
+[![Ver plataforma](https://img.shields.io/badge/innovaia.org%2Fyoutube-0d0d0d?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://innovaia.org/youtube)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Groq](https://img.shields.io/badge/Groq_LLaMA_3.3-0d0d0d?style=flat-square&logo=groq&logoColor=00e5ff)
+![YouTube API](https://img.shields.io/badge/YouTube_API_v3-0d0d0d?style=flat-square&logo=youtube&logoColor=FF0000)
+
+**¿Para qué sirve?**
+Suite completa de inteligencia para creadores de YouTube. Combina la YouTube Data API v3 con Groq (LLaMA 3.3 70B) para darte ventaja competitiva antes, durante y después de publicar un vídeo.
+
+**Módulos incluidos:**
+
+| Módulo | Función |
+|--------|---------|
+| 🔍 **Buscador de Videos** | Analiza los más virales de cualquier nicho con VIQ Score |
+| 📱 **Shorts Analyzer** | CPM real de Shorts vs Video largo, estrategia de crecimiento |
+| 🕵️ **Spy Tool** | Compara dos canales competidores y detecta huecos de contenido |
+| 🎯 **Viral Score Predictor** | Predice el potencial viral de un título antes de publicar |
+| 📅 **CPM Season Calendar** | Calendario mensual de CPM — cuándo ganar hasta 3× más |
+| 🔑 **Keywords Analyzer** | Extrae y puntúa palabras clave del nicho con oportunidad real |
+| 💰 **Calculadora de Ganancias** | Estimación detallada de ingresos por video y canal |
+| 🎬 **Script Generator IA** | Guión completo con gancho, secciones, CTA y tags SEO (Groq) |
+| 💀 **Esqueleto Explainer 3D** | Flujo automático para vídeos científicos con personaje 3D |
+| 🔤 **A/B Tester de Títulos** | Predice CTR de hasta 4 títulos y propone el ganador (IA) |
+| 💬 **Análisis de Comentarios** | Sentimiento, preguntas sin responder e ideas de contenido (IA) |
+| 🤝 **Calculadora de Sponsors** | Tarifas exactas + email de contacto a marcas generado por IA |
+| 🎨 **Prompt Studio** | Prompts profesionales para miniaturas en 7 plataformas (Midjourney, Flux, DALL-E...) |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ToniPost&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=00e5ff&text_color=c9d1d9&icon_color=00e5ff&show_icons=true&include_all_commits=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ToniPost&theme=github-dark&hide_border=true&background=0d0d0d&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=555555" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToniPost&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=00e5ff&text_color=c9d1d9&layout=compact&langs_count=8" />
+
+</div>
+
+---
+
+## 🏆 Trofeos
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ToniPost&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)
+
+</div>
+
+---
+
+## 🌍 Conéctate
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/tonipost.dev-0d0d0d?style=for-the-badge&logo=vercel&logoColor=00e5ff)](https://tonipost.dev)
+[![InnovaIA](https://img.shields.io/badge/innovaia.org-0d0d0d?style=for-the-badge&logo=vercel&logoColor=00e5ff)](https://innovaia.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/tonipost)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/ToniPost)
+[![Twitter](https://img.shields.io/badge/Twitter-0d0d0d?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/tonipost)
+[![YouTube](https://img.shields.io/badge/YouTube-0d0d0d?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://youtube.com/@tonipost)
+[![Google Play](https://img.shields.io/badge/Google_Play-0d0d0d?style=for-the-badge&logo=google-play&logoColor=00e5ff)](https://play.google.com/store/apps/developer?id=Innovaia+Ecosystem)
+
+<br/>
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=ToniPost&icon=6&color=0)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:00e5ff&height=100&section=footer&reversal=false" width="100%"/>
+
+</div>
