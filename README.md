@@ -1,19 +1,164 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,100:0d0d0d&height=120&section=header&text=TONI%20POSTIS&fontSize=72&fontColor=ffffff&fontAlignY=55&desc=Full%20Stack%20%E2%80%94%20Mobile%20%E2%80%94%20Cloud%20%E2%80%94%20AI&descAlignY=80&descSize=16&animation=blinking&stroke=00e5ff&strokeWidth=2" width="100%"/><br/><br/><img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=2000&color=00E5FF&center=true&vCenter=true&width=700&lines=Building+products+people+actually+use.;7%2B+years+%E2%80%94+50%2B+projects+%E2%80%94+0+compromises.;Flutter+%2B+Python+%2B+React+%2B+Cloud.;From+idea+to+deploy%2C+end+to+end." alt="Typing SVG"/></div><img align="right" height="230" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98078b3c0e7904068c8e8e044/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/><h3>Hola, soy <strong>Toni</strong> 👋</h3><p>Desarrollador full stack con <strong>+7 años</strong> creando productos digitales que van desde la primera línea de código hasta producción.</p><p>Me muevo igual de bien en el <strong>backend</strong> que en el <strong>frontend</strong>, en <strong>mobile</strong> que en <strong>cloud</strong>. No busco ser el experto de una sola herramienta — busco entregar resultados.</p><p>Trabajo con startups y empresas en todo el mundo para construir:</p><ul><li>📱 <strong>Apps móviles</strong> con Flutter que se sienten nativas</li><li>🌐 <strong>Plataformas web</strong> con React + Node.js / Django</li><li>🤖 <strong>Integraciones de IA</strong> con OpenAI, TensorFlow y más</li><li>☁️ <strong>Infraestructura cloud</strong> escalable en AWS, Azure y GCP</li></ul><blockquote><em>"No solo escribo código — diseño soluciones, anticipo problemas y entrego experiencias."</em></blockquote><br clear="right"/><hr/><h2>⚡ Stack</h2><table><th valign="top" width="33%"><strong>Lenguajes</strong><br/><br/><code>Python      ████████████  Expert</code><br/><code>JavaScript  ████████████  Expert</code><br/><code>Dart        ████████████  Expert</code><br/><code>Kotlin      ████████░░░░  Advanced</code><br/><code>Java        ████████░░░░  Advanced</code><br/><code>C++         ██████░░░░░░  Mid</code><br/><code>PHP         ██████░░░░░░  Mid</code></th><th valign="top" width="33%"><strong>Frontend & Mobile</strong><br/><br/><img src="https://img.shields.io/badge/Flutter-0d0d0d?style=flat-square&logo=Flutter&logoColor=00e5ff"/><br/><img src="https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=61DAFB"/><br/><img src="https://img.shields.io/badge/React_Native-0d0d0d?style=flat-square&logo=react&logoColor=61DAFB"/><br/><img src="https://img.shields.io/badge/Angular-0d0d0d?style=flat-square&logo=angular&logoColor=DD0031"/><br/><img src="https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&logo=html5&logoColor=E34F26"/><br/><img src="https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3&logoColor=1572B6"/><br/><img src="https://img.shields.io/badge/.NET-0d0d0d?style=flat-square&logo=dotnet&logoColor=9B59B6"/></th><th valign="top" width="33%"><strong>Backend & Bases de Datos</strong><br/><br/><img src="https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=node.js&logoColor=6DA55F"/><br/><img src="https://img.shields.io/badge/Django-0d0d0d?style=flat-square&logo=django&logoColor=00e5ff"/><br/><img src="https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=4169E1"/><br/><img src="https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=47A248"/><br/><img src="https://img.shields.io/badge/MySQL-0d0d0d?style=flat-square&logo=mysql&logoColor=00e5ff"/><br/><img src="https://img.shields.io/badge/Firebase-0d0d0d?style=flat-square&logo=firebase&logoColor=FFCA28"/><br/><img src="https://img.shields.io/badge/Redis-0d0d0d?style=flat-square&logo=redis&logoColor=DC382D"/></th></tr><tr><th valign="top"><strong>Cloud & DevOps</strong><br/><br/><img src="https://img.shields.io/badge/AWS-0d0d0d?style=flat-square&logo=amazon-aws&logoColor=FF9900"/><br/><img src="https://img.shields.io/badge/Azure-0d0d0d?style=flat-square&logo=microsoftazure&logoColor=0072C6"/><br/><img src="https://img.shields.io/badge/GCP-0d0d0d?style=flat-square&logo=google-cloud&logoColor=4285F4"/><br/><img src="https://img.shields.io/badge/Docker-0d0d0d?style=flat-square&logo=docker&logoColor=2496ED"/><br/><img src="https://img.shields.io/badge/Oracle_Cloud-0d0d0d?style=flat-square&logo=oracle&logoColor=F80000"/></th><th valign="top"><strong>IA & Data</strong><br/><br/><img src="https://img.shields.io/badge/OpenAI-0d0d0d?style=flat-square&logo=openai&logoColor=ffffff"/><br/><img src="https://img.shields.io/badge/TensorFlow-0d0d0d?style=flat-square&logo=tensorflow&logoColor=FF6F00"/><br/><img src="https://img.shields.io/badge/PyTorch-0d0d0d?style=flat-square&logo=pytorch&logoColor=EE4C2C"/><br/><img src="https://img.shields.io/badge/OpenCV-0d0d0d?style=flat-square&logo=opencv&logoColor=5C3EE8"/><br/><img src="https://img.shields.io/badge/Pandas-0d0d0d?style=flat-square&logo=pandas&logoColor=150458"/><br/><img src="https://img.shields.io/badge/Keras-0d0d0d?style=flat-square&logo=keras&logoColor=D00000"/><br/><img src="https://img.shields.io/badge/Groq-0d0d0d?style=flat-square&logo=groq&logoColor=00e5ff"/></th><th valign="top"><strong>Diseño & Herramientas</strong><br/><br/><img src="https://img.shields.io/badge/Figma-0d0d0d?style=flat-square&logo=figma&logoColor=F24E1E"/><br/><img src="https://img.shields.io/badge/Adobe_XD-0d0d0d?style=flat-square&logo=adobe-xd&logoColor=FF61F6"/><br/><img src="https://img.shields.io/badge/Blender-0d0d0d?style=flat-square&logo=blender&logoColor=F5792A"/><br/><img src="https://img.shields.io/badge/Photoshop-0d0d0d?style=flat-square&logo=adobephotoshop&logoColor=31A8FF"/><br/><img src="https://img.shields.io/badge/After_Effects-0d0d0d?style=flat-square&logo=adobeaftereffects&logoColor=9999FF"/><br/><img src="https://img.shields.io/badge/n8n-0d0d0d?style=flat-square&logo=n8n&logoColor=EA4B71"/></th></tr></table><hr/><h2>🚀 Proyectos Destacados</h2>| Proyecto | Stack | Descripción ||---|---|---|| 🏠 **App Inmobiliaria** | `Flutter` `Firebase` `IA` | Búsqueda inteligente de propiedades con recomendaciones por IA || 🛒 **E-Commerce Platform** | `React` `Node.js` `Stripe` | Plataforma completa de ventas con pagos y gestión de inventario || 🤖 **Chatbot WhatsApp** | `Python` `OpenAI` `API` | Asistente conversacional integrado en WhatsApp para negocios || 📊 **Analytics Dashboard** | `Django` `React` `AWS` | Panel de métricas en tiempo real con visualizaciones avanzadas || 🎮 **AR Experience** | `Flutter` `ARKit` `ARCore` | Realidad aumentada multiplataforma para catálogos de producto || 🎬 **Editor de Video IA** | `Python` `FFmpeg` `TensorFlow` | Edición automática de video con inteligencia artificial || 🧠 **InnovaIA** | `Node.js` `Python` `React` `n8n` `GPT-4` `Groq` | Agencia de automatización con IA: chatbots expertos, dashboards en tiempo real y flujos inteligentes para negocios || 🥗 **Innova Food Studio** | `Flutter` `IA` `Android` | App de escaneo de alimentos con detección de alertas sanitarias, alérgenos y análisis de ingredientes en tiempo real || 📺 **Innova ViralPro** | `JavaScript` `YouTube API` `Groq` `LLaMA 3.3` | Suite de inteligencia para YouTubers: nichos, guiones IA, spy tool, A/B títulos, CPM estacional y calculadora de sponsors |<hr/><h2>🧠 InnovaIA — Ecosistema Propio</h2><blockquote><p>Fundador y desarrollador de <strong><a href="https://innovaia.org">InnovaIA</a></strong> — plataforma de inteligencia artificial aplicada a negocios reales.</p></blockquote>| Métrica | Resultado ||---|---|| ⚡ Reducción tareas manuales | −60% en el primer mes || 📈 Aumento en conversiones | +35% con funnels IA || 🕐 Atención automatizada | 24/7 sin intervención humana || 🚀 Velocidad de análisis | ×3 vs equipos manuales |<p>InnovaIA diseña e implementa tres líneas de soluciones de IA:</p><p><strong>01 — Asistentes & Chatbots Expertos</strong><br/>Bots entrenados con la documentación, productos y FAQs del cliente. Atención al cliente, soporte técnico, ventas y onboarding automatizados en WhatsApp, Web y Telegram.</p><p><strong>02 — Paneles de Datos & Alertas</strong><br/>Dashboards únicos que consolidan métricas de todas las plataformas con alertas inteligentes. Detección de anomalías en ventas, errores, tickets e inventario en tiempo real.</p><p><strong>03 — Automatización de Procesos</strong><br/>Flujos conectados con Stripe, WooCommerce, Google Sheets, n8n y APIs internas: facturación automática, emails personalizados, segmentación y scoring de clientes.</p><hr/><h3>🧬 Redes Neuronales — El motor invisible</h3><p>InnovaIA no usa IA genérica. Cada solución está construida sobre <strong>redes neuronales personalizadas</strong>, entrenadas con datos reales del negocio y optimizadas para casos de uso concretos:</p>| Arquitectura | Aplicación | Producto ||---|---|---|| 🖼️ **CNN** (Convolucionales) | Procesamiento de imágenes, detección de patrones visuales | Innova Food Studio || 🔄 **Transformers** | Lenguaje natural, conversación con contexto | Asistentes IA || 📈 **LSTM** (Memoria a largo plazo) | Predicción de series temporales, forecasting | Paneles de datos || 🎬 **CNN + LSTM** (Híbridas) | Análisis de tendencias, comportamiento de audiencia | Innova ViralPro || ✍️ **Generativas** (LLaMA 3.3, GPT-4) | Creación de contenido, análisis semántico | Scripts, títulos, análisis |<pre>╔═══════════════════════════════════════════════════════════════╗
-║                    ARQUITECTURA NEURONAL                       ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║     INPUT LAYER          HIDDEN LAYERS        OUTPUT LAYER    ║
-║    ┌──────┐            ┌──────┐             ┌──────┐         ║
-║    │  ○───┼────────────┼──○───┼─────────────┼──○── │         ║
-║    └──────┘      ╱     └──────┘      ╱      └──────┘         ║
-║    ┌──────┐    ╱╲     ┌──────┐    ╱╲       ┌──────┐           ║
-║    │  ○───┼──╱──╲─────┼──○───┼──╱──╲───────┼──○── │           ║
-║    └──────┘  ╲  ╱     └──────┘  ╲  ╱       └──────┘           ║
-║    ┌──────┐   ╲╱      ┌──────┐   ╲╱       ┌──────┐            ║
-║    │  ○───┼────────────┼──○───┼────────────┼──○── │            ║
-║    └──────┘            └──────┘            └──────┘            ║
-║                                                               ║
-║    Datos de     →    Procesamiento    →    Predicción         ║
-║    entrada           multicapa             precisa            ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝</pre><blockquote><p>El resultado: modelos que aprenden del negocio, no al revés. Cuantos más datos procesan, más precisos se vuelven.</p></blockquote><hr/><h3>📦 Productos lanzados bajo InnovaIA</h3><hr/><h3>🥗 Innova Food Studio — App Android</h3><p><a href="https://play.google.com/store/apps/details?id=org.antoniopostiguiillo.innovafoodstudio"><img src="https://img.shields.io/badge/Google_Play-0d0d0d?style=for-the-badge&logo=google-play&logoColor=00e5ff" alt="Google Play"/></a> <img src="https://img.shields.io/badge/Flutter-0d0d0d?style=flat-square&logo=Flutter&logoColor=00e5ff" alt="Flutter"/> <img src="https://img.shields.io/badge/Android-0d0d0d?style=flat-square&logo=android&logoColor=3DDC84" alt="Android"/> <img src="https://img.shields.io/badge/CNN-0d0d0d?style=flat-square&logo=tensorflow&logoColor=FF6F00" alt="CNN"/></p><p><strong>¿Para qué sirve?</strong><br/>Escaneás cualquier alimento con la cámara del móvil y la app te dice exactamente qué estás a punto de comer. Detecta alertas sanitarias oficiales activas, analiza ingredientes y aditivos, identifica alérgenos y genera un perfil de riesgo personalizado según tu historial.</p><p><strong>🧠 Red Neuronal: CNN (Convolucional)</strong><br/>La app utiliza una red neuronal convolucional entrenada con más de 50,000 imágenes de etiquetas de alimentos. Capaz de reconocer texto, logos y patrones visuales en milisegundos, incluso con mala iluminación o ángulos difíciles.</p><p><strong>Funciones principales:</strong></p><ul><li>📷 Escaneo rápido con cámara + CNN en tiempo real</li><li>🚨 Detección de alertas sanitarias oficiales en tiempo real</li><li>🧪 Análisis completo de ingredientes y aditivos</li><li>⚠️ Identificación de alérgenos y componentes sensibles</li><li>📋 Historial de productos escaneados</li><li>👤 Revisión de riesgos según perfil personal</li></ul><blockquote><p>Ideal para personas con alergias, intolerancias, problemas de azúcar, colesterol elevado o quienes simplemente quieren saber qué están comiendo.</p></blockquote><hr/><h3>📺 Innova ViralPro — YouTube Intelligence Suite</h3><p><a href="https://innovaia.org/youtube"><img src="https://img.shields.io/badge/innovaia.org%2Fyoutube-0d0d0d?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="Ver plataforma"/></a> <img src="https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/> <img src="https://img.shields.io/badge/Groq_LLaMA_3.3-0d0d0d?style=flat-square&logo=groq&logoColor=00e5ff" alt="Groq"/> <img src="https://img.shields.io/badge/YouTube_API_v3-0d0d0d?style=flat-square&logo=youtube&logoColor=FF0000" alt="YouTube API"/> <img src="https://img.shields.io/badge/LSTM-0d0d0d?style=flat-square&logo=tensorflow&logoColor=FF6F00" alt="LSTM"/></p><p><strong>¿Para qué sirve?</strong><br/>Suite completa de inteligencia para creadores de YouTube. Combina la YouTube Data API v3 con Groq (LLaMA 3.3 70B) para darte ventaja competitiva antes, durante y después de publicar un vídeo.</p><p><strong>🧠 Redes Neuronales: LSTM + Híbridas</strong></p><ul><li><strong>LSTM</strong> → Predicción de CPM estacional y tendencias de viralidad</li><li><strong>CNN + LSTM</strong> → Análisis de patrones de comportamiento de audiencia</li><li><strong>Transformers</strong> → Generación de guiones y análisis semántico de comentarios</li></ul><p><strong>Módulos incluidos:</strong></p>| Módulo | Función | Tecnología IA ||---|---|---|| 🔍 **Buscador de Videos** | Analiza los más virales de cualquier nicho con VIQ Score | LSTM || 📱 **Shorts Analyzer** | CPM real de Shorts vs Video largo, estrategia de crecimiento | LSTM || 🕵️ **Spy Tool** | Compara dos canales competidores y detecta huecos de contenido | Embeddings || 🎯 **Viral Score Predictor** | Predice el potencial viral de un título antes de publicar | LSTM + Attention || 📅 **CPM Season Calendar** | Calendario mensual de CPM — cuándo ganar hasta 3× más | LSTM + Time Series || 🔑 **Keywords Analyzer** | Extrae y puntúa palabras clave del nicho con oportunidad real | TF-IDF + Embeddings || 💰 **Calculadora de Ganancias** | Estimación detallada de ingresos por video y canal | Regresión Neuronal || 🎬 **Script Generator IA** | Guión completo con gancho, secciones, CTA y tags SEO | LLaMA 3.3 (Groq) || 💀 **Esqueleto Explainer 3D** | Flujo automático para vídeos científicos con personaje 3D | Transformers || 🔤 **A/B Tester de Títulos** | Predice CTR de hasta 4 títulos y propone el ganador | Transformers || 💬 **Análisis de Comentarios** | Sentimiento, preguntas sin responder e ideas de contenido | LSTM + Sentiment || 🤝 **Calculadora de Sponsors** | Tarifas exactas + email de contacto a marcas generado por IA | LLaMA 3.3 || 🎨 **Prompt Studio** | Prompts profesionales para miniaturas en 7 plataformas | GPT-4 / Groq |<hr/><h2>📈 GitHub Stats</h2><div align="center"><img height="160" src="https://github-readme-stats.vercel.app/api?username=ToniPost&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=00e5ff&text_color=c9d1d9&icon_color=00e5ff&show_icons=true&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ToniPost&theme=github-dark&hide_border=true&background=0d0d0d&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=c9d1d9&dates=555555"/><br/><br/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToniPost&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=00e5ff&text_color=c9d1d9&layout=compact&langs_count=8"/></div><hr/><h2>🏆 Trofeos</h2><div align="center"><img src="https://github-profile-trophy.vercel.app/?username=ToniPost&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies"/></div><hr/><h2>🌍 Conéctate</h2><div align="center"><a href="https://tonipost.dev"><img src="https://img.shields.io/badge/tonipost.dev-0d0d0d?style=for-the-badge&logo=vercel&logoColor=00e5ff" alt="Portfolio"/></a> <a href="https://innovaia.org"><img src="https://img.shields.io/badge/innovaia.org-0d0d0d?style=for-the-badge&logo=vercel&logoColor=00e5ff" alt="InnovaIA"/></a> <a href="https://linkedin.com/in/tonipost"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a> <a href="https://github.com/ToniPost"><img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/></a> <a href="https://twitter.com/tonipost"><img src="https://img.shields.io/badge/Twitter-0d0d0d?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter"/></a> <a href="https://youtube.com/@tonipost"><img src="https://img.shields.io/badge/YouTube-0d0d0d?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"/></a> <a href="https://play.google.com/store/apps/developer?id=Innovaia+Ecosystem"><img src="https://img.shields.io/badge/Google_Play-0d0d0d?style=for-the-badge&logo=google-play&logoColor=00e5ff" alt="Google Play"/></a><br/><br/><img src="https://visitcount.itsvg.in/api?id=ToniPost&icon=6&color=0" alt="Visitor Count"/><br/><br/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:00e5ff&height=100&section=footer&reversal=false" width="100%"/></div>
+<!-- PROFILE HEADER -->
+<div align="center">
+  <img src="https://innovaia.org/nina_avatar_bot.jpg" width="120" style="border-radius:50%;border:3px solid #c9a84c;margin-bottom:16px">
+  
+  # Antonio Postiguillo Moscardó
+  
+  <p>
+    <strong>CEO & Fundador · innovaia.org</strong><br>
+    <sub>Ciberseguridad · Inteligencia Artificial · Desarrollo · Cloud</sub>
+  </p>
+  
+  <p>
+    <a href="https://innovaia.org"><img src="https://img.shields.io/badge/🌐_innovaia.org-000000?style=flat-square"></a>
+    <a href="https://innovaia.org/gui/"><img src="https://img.shields.io/badge/🦅_INNOVA_Agent-v3.0-c9a84c?style=flat-square"></a>
+    <a href="https://innovaia.org/aether/"><img src="https://img.shields.io/badge/🌐_AETHER_Gateway-v2.0-00A3FF?style=flat-square"></a>
+  </p>
+</div>
+
+---
+
+```
+🦅  INNOVAIA.ORG  —  El futuro es nuestro.
+═══════════════════════════════════════════════════════════════════
+Ciberseguridad  ·  Inteligencia Artificial  ·  Desarrollo  ·  Cloud
+Córdoba, Argentina  🇦🇷
+```
+
+---
+
+## 🚀 Proyectos Activos
+
+<table>
+<tr>
+<td width="50%">
+  <h3>🦅 <a href="https://github.com/ToniPost/innova-agent">INNOVA Agent v3.0</a></h3>
+  <p>El agente de IA autónomo más avanzado jamás creado.</p>
+  <p>
+    <img src="https://img.shields.io/badge/40+-features-c9a84c?style=flat-square">
+    <img src="https://img.shields.io/badge/Patent-Pending-red?style=flat-square">
+    <img src="https://img.shields.io/badge/Python-3.12-blue?style=flat-square">
+  </p>
+  <details><summary>🔥 Features únicos</summary>
+  🔮 Quantum Consensus · 🕶️ Ghost Mode · 🧬 Auto-Evolution<br>
+  🧠 Predictive Memory · 🏴‍☠️ Zero-Day Forge · 🔗 Blockchain Reputation<br>
+  🐝 Swarm Orchestrator · 🎭 Identity Cloak · 🔐 Homomorphic Memory
+  </details>
+</td>
+<td width="50%">
+  <h3>🌐 <a href="https://github.com/ToniPost/aether-gateway">AETHER Gateway v2.0</a></h3>
+  <p>Gateway universal de mensajería con IA. 15 plataformas.</p>
+  <p>
+    <img src="https://img.shields.io/badge/15-plataformas-00A3FF?style=flat-square">
+    <img src="https://img.shields.io/badge/Node.js-18-green?style=flat-square">
+    <img src="https://img.shields.io/badge/Patent-Pending-red?style=flat-square">
+  </p>
+  <details><summary>🔥 Features únicos</summary>
+  🔐 Inter-Bot Protocol · 🪞 Mirror Mode · 🎭 Mood Engine<br>
+  🌐 Living Dashboard · 🧬 Swarm Intelligence · 📡 Quantum Router
+  </details>
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ Stack Tecnológico
+
+<table>
+<tr>
+<td>
+
+### 🧠 IA & LLMs
+```
+DeepSeek       ████████████  Experto
+OpenAI         ████████████  Experto  
+Anthropic      ████████████  Experto
+Prompt Eng.    ████████████  Experto
+RAG/Vector DB  ██████████░░  Avanzado
+```
+
+</td>
+<td>
+
+### 🛡️ Ciberseguridad
+```
+Pentesting     ████████████  Experto
+OSINT          ████████████  Experto
+Kali Linux     ████████████  Experto
+Red Team       ██████████░░  Avanzado
+Exploit Dev    █████████░░░  Avanzado
+```
+
+</td>
+</tr>
+<tr>
+<td>
+
+### 💻 Desarrollo
+```
+Python         ████████████  Experto
+JavaScript     ████████████  Experto
+Node.js        ████████████  Experto
+PHP            ████████░░░░  Avanzado
+HTML/CSS/JS    ████████████  Experto
+```
+
+</td>
+<td>
+
+### ☁️ Infraestructura
+```
+Linux Admin    ████████████  Experto
+Docker/K8s     ████████░░░░  Avanzado
+Hostinger/cP   ████████████  Experto
+CI/CD          ████████░░░░  Avanzado
+Telegram Bots  ████████████  Experto
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ToniPost&show_icons=true&theme=dark&bg_color=000000&title_color=c9a84c&text_color=bbbbbb&icon_color=00A3FF&border_color=1a1a1a&hide_border=true" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ToniPost&layout=compact&theme=dark&bg_color=000000&title_color=c9a84c&text_color=bbbbbb&border_color=1a1a1a&hide_border=true" height="160">
+</div>
+
+---
+
+## 🏆 Logros
+
+| # | Logro |
+|---|-------|
+| 🦅 | Creador de **INNOVA Agent v3.0** — 40+ features únicos patent-pending |
+| 🌐 | Creador de **AETHER Gateway v2.0** — 15 plataformas de mensajería |
+| 🛡️ | +50 auditorías de seguridad realizadas |
+| 📚 | **Català Fàcil** — 69 alumnos, 7 cursos activos |
+| 🤖 | **NINA Bot** — Bot de ciberseguridad 24/7 en Telegram |
+| 🏠 | **Lions 2026** — Plataforma inmobiliaria con IA |
+| 🔐 | Descubrimiento de vulnerabilidades 0-day |
+| 🌍 | Operación en Argentina y España |
+
+---
+
+## 📬 Contacto
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/📧_toni@innovaia.org-000?style=for-the-badge&logo=gmail&logoColor=c9a84c)](mailto:toni@innovaia.org)
+[![Web](https://img.shields.io/badge/🌐_innovaia.org-000?style=for-the-badge&logo=google-chrome&logoColor=00A3FF)](https://innovaia.org)
+[![Dashboard](https://img.shields.io/badge/🦅_INNOVA_Dashboard-000?style=for-the-badge&logo=windowsterminal&logoColor=00E5FF)](https://innovaia.org/gui/)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>© 2026 Antonio Postiguillo Moscardó · Todos los derechos reservados</sub><br>
+  <sub>Córdoba, Argentina 🇦🇷 · innovaia.org</sub>
+</div>
